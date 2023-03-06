@@ -1,0 +1,2 @@
+class ResultBase(object):
+    pass
